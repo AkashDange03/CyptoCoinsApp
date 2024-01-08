@@ -1,3 +1,8 @@
+##CryptoCoint App
+
+#This webApp shows crypto coins and coin details, user can also view details in chart
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
