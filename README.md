@@ -1,4 +1,4 @@
-##CryptoCoint App
+##CryptoCoin App
 
 #This webApp shows crypto coins and coin details, user can also view details in chart
 
